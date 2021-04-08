@@ -3,7 +3,7 @@ This is the code I developed during my thesis. There are two types of architectu
 1. A simple convolutional neural network, called **Simple CNN**, and
 2. A **ResNet-18**
 
-In order to run the code, the dataset has to be dowloaded.
+In order to run the code, the dataset has to be downloaded.
 
 To run this code use: 
 
